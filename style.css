@@ -1,0 +1,14 @@
+/*navigation bar */
+* {
+  scroll-behavior: smooth;
+}
+#n-color, .active{
+color: rgb(255, 255, 255);
+margin-right: 25px;
+}
+.active{
+color:   rgb(241, 255, 160)!important;
+}
+#n-color:hover{
+color: rgb(255, 230, 0);
+}
